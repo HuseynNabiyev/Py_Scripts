@@ -49,7 +49,7 @@ def organize_files(directory):
 
 if __name__ == "__main__":
     # Specify the directory you want to organize
-    directory_to_organize = "C:/Users/RsLogik/Desktop/c++/test"
+    directory_to_organize = "C:"
 
     # Call the function to organize files
     organize_files(directory_to_organize)
