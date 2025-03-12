@@ -71,8 +71,8 @@ def automate_data_processing(input_file, output_file):
 
 if __name__ == "__main__":
     # Specify input and output file paths
-    input_file = "C:/Users/RsLogik/Desktop/Доки/CV/AstraZeneca/raw_data.csv"  # Replace with your input file path
-    output_file = "C:/Users/RsLogik/Desktop/Доки/CV/AstraZeneca/processed_data.csv"  # Replace with your output file path
+    input_file = "C:"  # Replace with your input file path
+    output_file = "C:"  # Replace with your output file path
 
     # Run the data automation tool
     automate_data_processing(input_file, output_file)
